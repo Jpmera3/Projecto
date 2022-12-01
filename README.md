@@ -32,6 +32,12 @@ El proyecto seleccionado es un circuito sencillo que enciende y apaga una luz me
 luz ambiente es mayor, se apaga. Como aplicación resulta un montaje ideal para quien llega a casa de noche y desea encontrar las luces encendidas o también 
 para quien no puede estar en determinado lugar para encender o apagar las luces al anochecer o amanece, además de evitar el gasto excesivo de energía
 eléctrica, porque mantiene las luces encendidas sólo mientras falta luz natural, también ayuda a economizar la presencia de un operador humano para conectarlas o desconectarlas. 
+<img width="1188" alt="T,NPN 2N3904" src="https://user-images.githubusercontent.com/117534483/205115281-cd7b0aac-1d71-443f-85de-aa02be2474b8.png">
+
+<img width="725" alt="P T B100K" src="https://user-images.githubusercontent.com/117534483/205115304-55c4d2e9-c3bf-4485-87bf-061e09b0a62a.png">
+
+<img width="1212" alt="Fotocelda" src="https://user-images.githubusercontent.com/117534483/205115338-b0eee7eb-5df7-443e-be64-4030236487ba.png">
+
 
 2.4. MATERIAL Y EQUIPO REQUERIDO
 
