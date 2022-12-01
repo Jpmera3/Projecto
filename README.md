@@ -1,4 +1,4 @@
-# Projecto
+# Projecto 1
 Universidad de las Fuerzas Armadas Espe
 
 Asignatura: Fundamentos de Circuitos Eléctricos
@@ -9,7 +9,7 @@ Integrantes: JEAN PIERRE MERA GUZMAN -MICHAEL PATRICIO ANDRANGO CAMPUEZ -JOSE MA
 
 Parcial: 1
 
-Projecto 1, TEMA: Led nocturno automático
+Projecto 1: TEMA: Led nocturno automático
 
 2 OBJETIVOS
 
@@ -35,6 +35,9 @@ eléctrica, porque mantiene las luces encendidas sólo mientras falta luz natura
 
 2.4. MATERIAL Y EQUIPO REQUERIDO
 
+Tabla de materiales
+
+<img width="717" alt="tabla" src="https://user-images.githubusercontent.com/117534483/204937247-7de28e22-9317-4ee5-b432-e4b808f4d0bd.png">
 
 2.5 Procedimiento
 
@@ -43,7 +46,7 @@ lakes desde esta línea esta conexión solo la hice por comodidad alimentaremos 
 
 VIDEO
 
-
+https://youtu.be/rZlI7Ur1jpM
 
 CONCLUSIONES
 
