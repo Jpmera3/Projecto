@@ -55,6 +55,27 @@ Usaremos un transistor bipolar np n2 n3 1904 vamos a polarizar lo negativo en su
 
 Procedimiento grafico
 
+![1](https://user-images.githubusercontent.com/117534483/205114340-5dd7250f-0e55-4209-a787-542a3ca00475.png)
+
+![2](https://user-images.githubusercontent.com/117534483/205114384-29ee3d4f-ff0e-4779-bfe3-87906617030f.png)
+
+![3](https://user-images.githubusercontent.com/117534483/205114402-460bcf80-cc38-478a-966f-88acd0d4a99d.png)
+
+![4](https://user-images.githubusercontent.com/117534483/205114424-59ea4aa3-d7f0-4969-aab7-7ca8f1fd16da.png)
+
+![5](https://user-images.githubusercontent.com/117534483/205114438-8cb75366-ef2c-4c15-aa21-5bd34161e49f.png)
+
+![6](https://user-images.githubusercontent.com/117534483/205114451-31a9ec54-aefd-474c-bcd1-badd5a76acbe.png)
+
+![7](https://user-images.githubusercontent.com/117534483/205114458-116c78a9-1388-47a0-8638-a66f5a6bf0b3.png)
+
+![8](https://user-images.githubusercontent.com/117534483/205114471-aefdabe0-3431-4d6b-aabd-7b0d7c15eaba.png)
+
+![9](https://user-images.githubusercontent.com/117534483/205114478-bd316475-cc6f-4bad-b24f-00edeb49a229.png)
+
+![10](https://user-images.githubusercontent.com/117534483/205114490-098b466c-a94b-48d0-a613-63eac23abc1e.png)
+
+
 VIDEO
 
 https://youtu.be/rZlI7Ur1jpM
