@@ -33,6 +33,15 @@ luz ambiente es mayor, se apaga. Como aplicación resulta un montaje ideal para 
 para quien no puede estar en determinado lugar para encender o apagar las luces al anochecer o amanece, además de evitar el gasto excesivo de energía
 eléctrica, porque mantiene las luces encendidas sólo mientras falta luz natural, también ayuda a economizar la presencia de un operador humano para conectarlas o desconectarlas. 
 
+Nuevos elementos aplicados en el circuito
+
+![T,NPN 2N3904](https://user-images.githubusercontent.com/117534483/204958502-5a9fccd8-0535-4450-97c7-1b9e4927bd54.png)
+
+![Fotocelda](https://user-images.githubusercontent.com/117534483/204958505-f092462c-418e-49b8-b61a-beb1f4ee9c0a.png)
+
+![P T B100K](https://user-images.githubusercontent.com/117534483/204958507-6581880b-d2dc-4078-bce9-96ec3d337fbd.png)
+
+
 2.4. MATERIAL Y EQUIPO REQUERIDO
 
 Tabla de materiales
@@ -54,7 +63,27 @@ Circuito armado en tinkercad.
 Usaremos un transistor bipolar np n2 n3 1904 vamos a polarizar lo negativo en su pin emisor en el colector conectaremos dos diodos led con una conexión en serie hasta llegar al positivo mediante una resistencia que al final lo colocaremos vamos a desactivar constantemente el transistor por su base usando una fotocelda conectada hacia negativo recordando que este transistor solo se activa por señal positiva podemos enviar una señal positiva para el transistor mediante un potenciómetro y una resistencia aquí usaremos la línea azul como positivo principal y la línea roja como positivo para los leds conectamos la resistencia y el potenciómetro en serie hasta llegar a la base del transistor desde el pin medio del potenciómetro la razón por usar una resistencia fija es para enviar señal positiva cuando el potenciómetro esté en valor cero provocando una división de voltaje estable ahora si conectamos la resistencia a los
 lakes desde esta línea esta conexión solo la hice por comodidad alimentaremos del circuito desde los 6 voltios la fotos celda a recibir luz mantendrá apagado al transistor pero al momento de obstruir la luz su valor subirá permitiendo pasar la señal positiva de las resistencias al transistor activando los leds el potencial no te permite dejar pasar más señal positiva desbalanceando la división de voltaje y así activando más al transistor algo así como cambiar la sensibilidad del sensor y es así que se obtiene un sencillísimo detector de oscuridad con lex y un simple transistor.
 
-Procedimiento grafico
+Procedimiento en graficos
+
+![1](https://user-images.githubusercontent.com/117534483/204955298-b33578c6-53b0-4acb-987e-369ce44a0be0.png)
+
+![2](https://user-images.githubusercontent.com/117534483/204955305-59bb723f-235e-41a8-8c26-d182a8de692f.png)
+
+![3](https://user-images.githubusercontent.com/117534483/204955307-7af139a3-2800-47f8-8ef1-8c28802aefec.png)
+
+![4](https://user-images.githubusercontent.com/117534483/204955308-ede122cb-a4b0-4619-a5b1-84915cc26788.png)
+
+![5](https://user-images.githubusercontent.com/117534483/204955311-180256f1-4651-44f6-a48a-4ecbade87843.png)
+
+![6](https://user-images.githubusercontent.com/117534483/204955314-dc996ffe-8c1d-415c-9b00-0e7494bdf799.png)
+
+![7](https://user-images.githubusercontent.com/117534483/204955317-cb66f073-f402-43f7-b1e5-b50ebb88fb0f.png)
+
+![8](https://user-images.githubusercontent.com/117534483/204955319-50703eee-6eb6-4b8a-b370-55659f25d7dd.png)
+
+![9](https://user-images.githubusercontent.com/117534483/204955320-5c905f71-5e00-4d60-980a-35caf5d9971c.png)
+
+![10](https://user-images.githubusercontent.com/117534483/204955321-80faa4f8-cc1e-4e36-912c-c2d1acb00ea1.png)
 
 VIDEO
 
