@@ -39,10 +39,22 @@ Tabla de materiales
 
 <img width="717" alt="tabla" src="https://user-images.githubusercontent.com/117534483/204937247-7de28e22-9317-4ee5-b432-e4b808f4d0bd.png">
 
+Circuito esquematico a evaluar y armar
+
+![C1](https://user-images.githubusercontent.com/117534483/204937399-7fbf0a57-be91-4788-972d-30e215ced05d.png)
+
+Circuito armado en tinkercad.
+
+<img width="870" alt="CT1" src="https://user-images.githubusercontent.com/117534483/204937897-c9135c95-0366-4843-9411-7731cf251876.png">
+
+<img width="875" alt="CT2" src="https://user-images.githubusercontent.com/117534483/204937899-b4e2cdfa-b783-41a0-a7b3-1168cd693b52.png">
+
 2.5 Procedimiento
 
 Usaremos un transistor bipolar np n2 n3 1904 vamos a polarizar lo negativo en su pin emisor en el colector conectaremos dos diodos led con una conexión en serie hasta llegar al positivo mediante una resistencia que al final lo colocaremos vamos a desactivar constantemente el transistor por su base usando una fotocelda conectada hacia negativo recordando que este transistor solo se activa por señal positiva podemos enviar una señal positiva para el transistor mediante un potenciómetro y una resistencia aquí usaremos la línea azul como positivo principal y la línea roja como positivo para los leds conectamos la resistencia y el potenciómetro en serie hasta llegar a la base del transistor desde el pin medio del potenciómetro la razón por usar una resistencia fija es para enviar señal positiva cuando el potenciómetro esté en valor cero provocando una división de voltaje estable ahora si conectamos la resistencia a los
 lakes desde esta línea esta conexión solo la hice por comodidad alimentaremos del circuito desde los 6 voltios la fotos celda a recibir luz mantendrá apagado al transistor pero al momento de obstruir la luz su valor subirá permitiendo pasar la señal positiva de las resistencias al transistor activando los leds el potencial no te permite dejar pasar más señal positiva desbalanceando la división de voltaje y así activando más al transistor algo así como cambiar la sensibilidad del sensor y es así que se obtiene un sencillísimo detector de oscuridad con lex y un simple transistor.
+
+Procedimiento grafico
 
 VIDEO
 
