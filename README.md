@@ -35,12 +35,11 @@ eléctrica, porque mantiene las luces encendidas sólo mientras falta luz natura
 
 Nuevos elementos aplicados en el circuito
 
-![T,NPN 2N3904](https://user-images.githubusercontent.com/117534483/204958502-5a9fccd8-0535-4450-97c7-1b9e4927bd54.png)
+<img width="1188" alt="T,NPN 2N3904" src="https://user-images.githubusercontent.com/117534483/204958727-20fcc977-81fd-47a7-b0ae-bce0977f73ea.png">
 
-![Fotocelda](https://user-images.githubusercontent.com/117534483/204958505-f092462c-418e-49b8-b61a-beb1f4ee9c0a.png)
+<img width="1212" alt="Fotocelda" src="https://user-images.githubusercontent.com/117534483/204958730-38c52c35-6a8f-40ec-b470-5f5d2b3f3a7b.png">
 
-![P T B100K](https://user-images.githubusercontent.com/117534483/204958507-6581880b-d2dc-4078-bce9-96ec3d337fbd.png)
-
+<img width="725" alt="P T B100K" src="https://user-images.githubusercontent.com/117534483/204958732-35c314ca-77b1-451e-9876-e3a152508bd6.png">
 
 2.4. MATERIAL Y EQUIPO REQUERIDO
 
